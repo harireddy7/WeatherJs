@@ -8,7 +8,7 @@ class Weather {
 
   async getWeather() {
     const response = await fetch(
-      `http://api.weatherstack.com/current?access_key=${this.accessKey}&query=${this.city},${this.state}`
+      `/current?access_key=${this.accessKey}&query=${this.city},${this.state}`
     );
 
     const responseData = await response.json();
