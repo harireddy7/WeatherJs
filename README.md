@@ -4,4 +4,4 @@
 #### HTML5, CSS3, Bootstrap &amp; Javascript
 
 
-### Demo: https://weatherjs-dev.netlify.app/
+### Live: https://weatherjs-dev.netlify.app/
