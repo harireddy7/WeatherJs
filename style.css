@@ -1,0 +1,86 @@
+/* Icons */
+.icon {
+  width: 80px;
+  height: 70px;
+}
+
+.sun_loading {
+  background: url(./assets/sun_loading.svg) no-repeat center/cover;
+  width: 150px;
+  /* height: 150px; */
+}
+
+.partly_cloudy {
+  background: url(./assets/weather_icon_partly_cloudy.svg) no-repeat center/cover;
+}
+
+.full_clouds {
+  background: url(./assets/weather_icon_full_clouds.svg) no-repeat center/cover;
+}
+
+.night {
+  background: url(./assets/weather_icon_night.svg) no-repeat center/cover;
+}
+
+.sun_rain_clouds {
+  background: url(./assets/weather_icon_sun_rain_clouds.svg) no-repeat center/cover;
+}
+
+.full_sun {
+  background: url(./assets/weather_icon_full_sun.svg) no-repeat center/cover;
+}
+
+.rainy {
+  background: url(./assets/weather_icon_rainy.svg) no-repeat center/cover;
+}
+
+.cloud_slight_rain {
+  background: url(./assets/weather_icon_cloud_slight_rain.svg) no-repeat center/cover;
+}
+
+.thunder {
+  background: url(./assets/weather_icon_thunder.svg) no-repeat center/cover;
+}
+
+.text-value {
+  font-size: 1.5rem;
+  color: #e6e2fd;
+  font-weight: 600;
+}
+
+.text-variant {
+  color: #e6e2fd;
+}
+
+.text-title {
+  font-size: 0.8rem;
+  color: #bbb;
+  font-weight: 600;
+}
+
+.text-capital {
+  text-transform: capitalize;
+}
+
+#w-string {
+  font-size: 3rem;
+}
+
+.unit {
+  font-size: 0.7rem;
+  color: #aaa;
+}
+
+#w-temp {
+  font-size: 3rem;
+}
+
+#w-spinner {
+  width: 50vw;
+  height: 50vh;
+  color: #667f92;
+}
+#spinenr-text {
+  font-size: 01.2rem;
+  font-weight: 600;
+}
